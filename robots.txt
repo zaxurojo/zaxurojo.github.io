@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://zaxurojo.github.io/sitemap/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/LOT/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/Nya/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/Uyi/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/ECQ/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/MFp/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/Wwd/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/gPr/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/nCN/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/PZN/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/eGo/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/xuy/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/Fsl/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/Bqi/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/WLa/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/FlU/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/PhZ/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/his/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/Mov/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/gEK/sitemap_index.zaxurojo
+Sitemap: https://zaxurojo.github.io/wBl/sitemap_index.zaxurojo
